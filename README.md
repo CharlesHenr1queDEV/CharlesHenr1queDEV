@@ -1,4 +1,4 @@
-<h2 align="center">Oi, eu sou Charles Henrique, Bem vindo ao meu mundo</h2>
+<h2 align="center">Oi, eu sou Charles Henrique</h2>
 
 ###
 
@@ -40,12 +40,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CharlesHenr1queDEV/CharlesHenr1queDEV/output/snake.svg" alt="Snake animation" />
 
 ###
 
